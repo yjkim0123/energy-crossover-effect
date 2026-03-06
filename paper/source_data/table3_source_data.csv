@@ -1,0 +1,8 @@
+modality,model,architecture,params,configs_per_platform,platforms
+image,SD-v1-5,U-Net (diffusion),0.9B,30,Apple M4 Pro; Mac M2 Ultra; NVIDIA A100; NVIDIA H100
+image,SDXL-base-1.0,U-Net (diffusion),3.5B,20,Apple M4 Pro; NVIDIA A100; NVIDIA H100
+music,MusicGen-medium,Transformer (encoder-decoder),2.008B,2,Mac M2 Ultra; NVIDIA A100
+music,MusicGen-small,Transformer (encoder-decoder),0.589B,3,Mac M2 Ultra; NVIDIA A100
+text,Phi-3-mini-4k,Transformer (decoder),3.8B,5,Mac M2 Ultra; NVIDIA A100; NVIDIA H100
+text_batched,Phi-3-mini-4k,Transformer (decoder),3.8B,5,NVIDIA A100; NVIDIA H100
+video,AnimateDiff-v1.5,U-Net + motion (diffusion),N/A,17,Apple M4 Pro; Mac M2 Ultra; NVIDIA A100; NVIDIA H100

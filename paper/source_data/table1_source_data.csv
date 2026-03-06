@@ -1,0 +1,16 @@
+modality,platform,alpha,beta,r_squared
+image (SD-v1-5),Apple M4 Pro,0.00015,0.8672,0.9259
+image (SD-v1-5),Mac M2 Ultra,0.0,1.3061,0.9918
+image (SD-v1-5),NVIDIA A100,0.213109,0.4584,0.9556
+image (SD-v1-5),NVIDIA H100,0.115823,0.4744,0.7392
+image (SDXL-base-1.0),Apple M4 Pro,7e-06,1.1361,0.9994
+image (SDXL-base-1.0),NVIDIA A100,0.003799,0.732,0.9968
+image (SDXL-base-1.0),NVIDIA H100,0.000671,0.8201,0.9835
+music (MusicGen-small),Mac M2 Ultra,0.055564,1.2084,1.0
+music (MusicGen-small),NVIDIA A100,3.554465,0.892,0.9992
+text (Phi-3-mini-4k),Mac M2 Ultra,0.168497,1.193,0.9995
+text (Phi-3-mini-4k),NVIDIA A100,5.259925,0.924,0.998
+text (Phi-3-mini-4k),NVIDIA H100,2.649187,1.0335,1.0
+video (AnimateDiff-v1.5),Mac M2 Ultra,1.8e-05,1.0639,0.9982
+video (AnimateDiff-v1.5),NVIDIA A100,0.00219,0.7673,0.9748
+video (AnimateDiff-v1.5),NVIDIA H100,0.000744,0.8074,0.9885

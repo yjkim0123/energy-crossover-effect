@@ -1,0 +1,150 @@
+platform,modality,configuration,speed_ratio,energy_ratio
+Apple M4 Pro,image (SD-v1-5),128x128_steps=10,1.0,1.0
+Apple M4 Pro,image (SD-v1-5),128x128_steps=15,1.3717,1.3846
+Apple M4 Pro,image (SD-v1-5),128x128_steps=20,1.7323,1.2201
+Apple M4 Pro,image (SD-v1-5),128x128_steps=30,2.4562,3.2481
+Apple M4 Pro,image (SD-v1-5),128x128_steps=5,3.5285,1.6003
+Apple M4 Pro,image (SD-v1-5),128x128_steps=50,3.9155,5.5772
+Apple M4 Pro,image (SD-v1-5),256x256_steps=10,2.1008,2.7258
+Apple M4 Pro,image (SD-v1-5),256x256_steps=15,2.9022,3.9866
+Apple M4 Pro,image (SD-v1-5),256x256_steps=20,3.7037,5.0419
+Apple M4 Pro,image (SD-v1-5),256x256_steps=30,5.3004,7.6848
+Apple M4 Pro,image (SD-v1-5),256x256_steps=5,1.2994,1.4014
+Apple M4 Pro,image (SD-v1-5),256x256_steps=50,8.5031,12.3707
+Apple M4 Pro,image (SD-v1-5),384x384_steps=10,4.4206,6.7398
+Apple M4 Pro,image (SD-v1-5),384x384_steps=15,6.166,9.2894
+Apple M4 Pro,image (SD-v1-5),384x384_steps=20,7.9084,12.0166
+Apple M4 Pro,image (SD-v1-5),384x384_steps=30,11.3809,17.1849
+Apple M4 Pro,image (SD-v1-5),384x384_steps=5,2.6935,3.6432
+Apple M4 Pro,image (SD-v1-5),384x384_steps=50,18.3299,28.6101
+Apple M4 Pro,image (SD-v1-5),512x512_steps=10,7.4491,12.2659
+Apple M4 Pro,image (SD-v1-5),512x512_steps=15,10.3859,17.8861
+Apple M4 Pro,image (SD-v1-5),512x512_steps=20,13.331,23.5486
+Apple M4 Pro,image (SD-v1-5),512x512_steps=30,19.2118,34.1424
+Apple M4 Pro,image (SD-v1-5),512x512_steps=5,4.5244,7.4805
+Apple M4 Pro,image (SD-v1-5),512x512_steps=50,30.9134,56.0798
+Apple M4 Pro,image (SD-v1-5),640x640_steps=20,23.2734,81.4251
+Apple M4 Pro,image (SDXL-base-1.0),1024x1024_steps=20,1.0,1.0
+Apple M4 Pro,image (SDXL-base-1.0),512x512_steps=20,0.1937,0.2062
+Apple M4 Pro,image (SDXL-base-1.0),768x768_steps=20,0.4383,0.5019
+Apple M4 Pro,video (AnimateDiff-v1.5),256x256_frames=16_steps=20,1.0,1.0
+Apple M4 Pro,video (AnimateDiff-v1.5),256x256_frames=6_steps=20,0.3912,0.355
+Mac M2 Ultra,image (SD-v1-5),256x256_steps=20,1.0,1.0
+Mac M2 Ultra,image (SD-v1-5),256x256_steps=30,1.4296,1.5151
+Mac M2 Ultra,image (SD-v1-5),384x384_steps=20,2.5235,2.9162
+Mac M2 Ultra,image (SD-v1-5),384x384_steps=30,3.6094,4.3323
+Mac M2 Ultra,image (SD-v1-5),512x512_steps=20,4.8154,6.597
+Mac M2 Ultra,image (SD-v1-5),512x512_steps=30,7.0006,9.6935
+Mac M2 Ultra,music (MusicGen-medium),tokens=128_audio=2.5s,1.0,1.0
+Mac M2 Ultra,music (MusicGen-medium),tokens=256_audio=5.1s,1.9974,2.1619
+Mac M2 Ultra,music (MusicGen-small),tokens=128_audio=2.5s,1.0,1.0
+Mac M2 Ultra,music (MusicGen-small),tokens=256_audio=5.1s,2.2988,2.3346
+Mac M2 Ultra,music (MusicGen-small),tokens=512_audio=10.2s,3.8683,5.3397
+Mac M2 Ultra,text (Phi-3-mini-4k),max_tokens=128,1.0,1.0
+Mac M2 Ultra,text (Phi-3-mini-4k),max_tokens=256,14.7197,2.3982
+Mac M2 Ultra,text (Phi-3-mini-4k),max_tokens=512,4.5757,5.4221
+Mac M2 Ultra,text (Phi-3-mini-4k),max_tokens=64,0.5165,0.461
+Mac M2 Ultra,video (AnimateDiff-v1.5),256x256_frames=12_steps=20,1.0,1.0
+Mac M2 Ultra,video (AnimateDiff-v1.5),256x256_frames=4_steps=20,0.3604,0.309
+Mac M2 Ultra,video (AnimateDiff-v1.5),256x256_frames=4_steps=30,0.5291,0.4572
+Mac M2 Ultra,video (AnimateDiff-v1.5),256x256_frames=8_steps=20,0.6684,0.6517
+Mac M2 Ultra,video (AnimateDiff-v1.5),256x256_frames=8_steps=30,0.9834,0.964
+NVIDIA A100,image (SD-v1-5),128x128_steps=20,1.0,1.0
+NVIDIA A100,image (SD-v1-5),256x256_steps=20,0.9557,2.1307
+NVIDIA A100,image (SD-v1-5),256x256_steps=30,1.3923,2.7534
+NVIDIA A100,image (SD-v1-5),384x384_steps=20,0.9722,2.9618
+NVIDIA A100,image (SD-v1-5),384x384_steps=30,1.3989,4.0337
+NVIDIA A100,image (SD-v1-5),512x512_steps=20,0.9808,3.5996
+NVIDIA A100,image (SD-v1-5),512x512_steps=30,1.4075,5.032
+NVIDIA A100,image (SD-v1-5),640x640_steps=20,1.1434,3.9522
+NVIDIA A100,image (SDXL-base-1.0),1024x1024_steps=20,1.0,1.0
+NVIDIA A100,image (SDXL-base-1.0),512x512_steps=20,0.8827,0.3604
+NVIDIA A100,image (SDXL-base-1.0),768x768_steps=20,0.96,0.6227
+NVIDIA A100,music (MusicGen-medium),tokens=128_audio=2.5s,1.0,1.0
+NVIDIA A100,music (MusicGen-medium),tokens=256_audio=5.1s,1.9943,2.0006
+NVIDIA A100,music (MusicGen-small),tokens=128_audio=2.5s,1.0,1.0
+NVIDIA A100,music (MusicGen-small),tokens=256_audio=5.1s,1.9765,1.8006
+NVIDIA A100,music (MusicGen-small),tokens=512_audio=10.2s,3.9397,3.4438
+NVIDIA A100,text (Phi-3-mini-4k),max_tokens=128,1.0,1.0
+NVIDIA A100,text (Phi-3-mini-4k),max_tokens=256,2.0887,1.9686
+NVIDIA A100,text (Phi-3-mini-4k),max_tokens=512,4.2077,3.8637
+NVIDIA A100,text (Phi-3-mini-4k),max_tokens=64,0.5162,0.5727
+NVIDIA A100,video (AnimateDiff-v1.5),256x256_frames=12_steps=20,1.0,1.0
+NVIDIA A100,video (AnimateDiff-v1.5),256x256_frames=16_steps=20,1.0376,1.1255
+NVIDIA A100,video (AnimateDiff-v1.5),256x256_frames=4_steps=20,0.8469,0.5424
+NVIDIA A100,video (AnimateDiff-v1.5),256x256_frames=4_steps=30,1.252,0.7727
+NVIDIA A100,video (AnimateDiff-v1.5),256x256_frames=6_steps=20,0.8771,0.5501
+NVIDIA A100,video (AnimateDiff-v1.5),256x256_frames=8_steps=20,0.9086,0.7559
+NVIDIA A100,video (AnimateDiff-v1.5),256x256_frames=8_steps=30,1.3339,1.0942
+NVIDIA A100,video (AnimateDiff-v1.5),512x512_frames=4_steps=20,1.3352,1.5041
+NVIDIA A100,video (AnimateDiff-v1.5),512x512_frames=8_steps=20,2.1638,2.6671
+NVIDIA H100,image (SD-v1-5),128x128_steps=10,1.0,1.0
+NVIDIA H100,image (SD-v1-5),128x128_steps=15,1.4156,1.4754
+NVIDIA H100,image (SD-v1-5),128x128_steps=20,1.7673,1.8855
+NVIDIA H100,image (SD-v1-5),128x128_steps=30,2.5959,2.8289
+NVIDIA H100,image (SD-v1-5),128x128_steps=5,0.6202,0.5608
+NVIDIA H100,image (SD-v1-5),128x128_steps=50,4.2136,4.6661
+NVIDIA H100,image (SD-v1-5),256x256_steps=10,1.0269,1.1625
+NVIDIA H100,image (SD-v1-5),256x256_steps=15,1.4246,1.6524
+NVIDIA H100,image (SD-v1-5),256x256_steps=20,1.8376,2.1886
+NVIDIA H100,image (SD-v1-5),256x256_steps=30,2.633,3.2094
+NVIDIA H100,image (SD-v1-5),256x256_steps=5,0.6407,0.6588
+NVIDIA H100,image (SD-v1-5),256x256_steps=50,4.179,5.2917
+NVIDIA H100,image (SD-v1-5),384x384_steps=10,1.0691,1.4216
+NVIDIA H100,image (SD-v1-5),384x384_steps=15,1.4719,2.043
+NVIDIA H100,image (SD-v1-5),384x384_steps=20,1.867,2.6968
+NVIDIA H100,image (SD-v1-5),384x384_steps=30,2.6867,4.0374
+NVIDIA H100,image (SD-v1-5),384x384_steps=5,0.6726,0.805
+NVIDIA H100,image (SD-v1-5),384x384_steps=50,4.3529,6.692
+NVIDIA H100,image (SD-v1-5),512x512_steps=10,1.1803,1.9752
+NVIDIA H100,image (SD-v1-5),512x512_steps=15,1.6189,2.8019
+NVIDIA H100,image (SD-v1-5),512x512_steps=20,2.0614,3.6421
+NVIDIA H100,image (SD-v1-5),512x512_steps=30,2.9258,5.4044
+NVIDIA H100,image (SD-v1-5),512x512_steps=5,0.7634,1.0379
+NVIDIA H100,image (SD-v1-5),512x512_steps=50,4.6189,8.8511
+NVIDIA H100,image (SD-v1-5),640x640_steps=10,1.3645,2.8707
+NVIDIA H100,image (SD-v1-5),640x640_steps=15,1.8427,4.0673
+NVIDIA H100,image (SD-v1-5),640x640_steps=20,2.3031,5.2431
+NVIDIA H100,image (SD-v1-5),640x640_steps=30,3.2442,7.7744
+NVIDIA H100,image (SD-v1-5),640x640_steps=5,0.8887,1.5895
+NVIDIA H100,image (SD-v1-5),640x640_steps=50,5.1125,12.7664
+NVIDIA H100,image (SDXL-base-1.0),1024x1024_steps=10,1.0,1.0
+NVIDIA H100,image (SDXL-base-1.0),1024x1024_steps=15,1.3558,1.4188
+NVIDIA H100,image (SDXL-base-1.0),1024x1024_steps=20,1.725,1.8473
+NVIDIA H100,image (SDXL-base-1.0),1024x1024_steps=30,2.4429,2.7199
+NVIDIA H100,image (SDXL-base-1.0),1024x1024_steps=5,0.6353,0.5702
+NVIDIA H100,image (SDXL-base-1.0),512x512_steps=10,0.8137,0.3777
+NVIDIA H100,image (SDXL-base-1.0),512x512_steps=15,1.1704,0.5586
+NVIDIA H100,image (SDXL-base-1.0),512x512_steps=20,1.5017,0.7248
+NVIDIA H100,image (SDXL-base-1.0),512x512_steps=30,2.2053,1.0818
+NVIDIA H100,image (SDXL-base-1.0),512x512_steps=5,0.4674,0.2065
+NVIDIA H100,image (SDXL-base-1.0),640x640_steps=10,0.8575,0.4953
+NVIDIA H100,image (SDXL-base-1.0),640x640_steps=15,1.2093,0.718
+NVIDIA H100,image (SDXL-base-1.0),640x640_steps=20,1.567,0.9486
+NVIDIA H100,image (SDXL-base-1.0),640x640_steps=30,2.2576,1.3961
+NVIDIA H100,image (SDXL-base-1.0),640x640_steps=5,0.4993,0.2637
+NVIDIA H100,image (SDXL-base-1.0),768x768_steps=10,0.8984,0.6188
+NVIDIA H100,image (SDXL-base-1.0),768x768_steps=15,1.2446,0.9068
+NVIDIA H100,image (SDXL-base-1.0),768x768_steps=20,1.6099,1.1935
+NVIDIA H100,image (SDXL-base-1.0),768x768_steps=30,2.3254,1.755
+NVIDIA H100,image (SDXL-base-1.0),768x768_steps=5,0.5326,0.3445
+NVIDIA H100,text (Phi-3-mini-4k),max_tokens=128,1.0,1.0
+NVIDIA H100,text (Phi-3-mini-4k),max_tokens=256,2.006,2.025
+NVIDIA H100,text (Phi-3-mini-4k),max_tokens=32,0.2522,0.2372
+NVIDIA H100,text (Phi-3-mini-4k),max_tokens=512,4.0449,4.1537
+NVIDIA H100,text (Phi-3-mini-4k),max_tokens=64,0.4911,0.4807
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=12_steps=10,1.0,1.0
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=12_steps=20,1.862,1.9778
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=12_steps=30,2.7157,2.953
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=16_steps=10,1.1022,1.2721
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=16_steps=20,2.0251,2.4586
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=16_steps=30,2.9851,3.6747
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=4_steps=10,0.8453,0.5105
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=4_steps=20,1.595,1.0193
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=4_steps=30,2.3399,1.5308
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=6_steps=10,0.8775,0.6204
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=6_steps=20,1.6493,1.2558
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=6_steps=30,2.4421,1.8965
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=8_steps=10,0.9068,0.7429
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=8_steps=20,1.7043,1.4855
+NVIDIA H100,video (AnimateDiff-v1.5),256x256_frames=8_steps=30,2.494,2.2233

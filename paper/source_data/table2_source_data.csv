@@ -1,0 +1,134 @@
+modality,configuration,platform,cv_percent,n_runs
+image,1024x1024_steps=10,NVIDIA H100,1.5499,30
+image,1024x1024_steps=15,NVIDIA H100,3.5222,30
+image,1024x1024_steps=20,Apple M4 Pro,0.7978,30
+image,1024x1024_steps=20,NVIDIA A100,1.6671,30
+image,1024x1024_steps=20,NVIDIA H100,2.5835,30
+image,1024x1024_steps=30,NVIDIA H100,1.1548,30
+image,1024x1024_steps=5,NVIDIA H100,2.543,30
+image,128x128_steps=10,Apple M4 Pro,21.2645,15
+image,128x128_steps=10,NVIDIA H100,5.9647,30
+image,128x128_steps=15,Apple M4 Pro,15.3708,15
+image,128x128_steps=15,NVIDIA H100,1.7216,30
+image,128x128_steps=20,Apple M4 Pro,58.4131,39
+image,128x128_steps=20,NVIDIA A100,1.4033,30
+image,128x128_steps=20,NVIDIA H100,5.7873,30
+image,128x128_steps=30,Apple M4 Pro,11.7108,15
+image,128x128_steps=30,NVIDIA H100,3.5314,30
+image,128x128_steps=5,Apple M4 Pro,157.0958,7
+image,128x128_steps=5,NVIDIA H100,10.4642,30
+image,128x128_steps=50,Apple M4 Pro,12.517,15
+image,128x128_steps=50,NVIDIA H100,2.592,30
+image,256x256_steps=10,Apple M4 Pro,13.3126,15
+image,256x256_steps=10,NVIDIA H100,1.7428,30
+image,256x256_steps=15,Apple M4 Pro,17.6509,15
+image,256x256_steps=15,NVIDIA H100,3.3498,30
+image,256x256_steps=20,Apple M4 Pro,12.1592,15
+image,256x256_steps=20,Mac M2 Ultra,3.2149,30
+image,256x256_steps=20,NVIDIA A100,1.7254,30
+image,256x256_steps=20,NVIDIA H100,2.6007,30
+image,256x256_steps=30,Apple M4 Pro,6.6159,15
+image,256x256_steps=30,Mac M2 Ultra,3.6198,30
+image,256x256_steps=30,NVIDIA A100,1.9084,30
+image,256x256_steps=30,NVIDIA H100,3.116,30
+image,256x256_steps=5,Apple M4 Pro,30.3945,15
+image,256x256_steps=5,NVIDIA H100,1.766,30
+image,256x256_steps=50,Apple M4 Pro,10.7902,15
+image,256x256_steps=50,NVIDIA H100,2.9828,30
+image,384x384_steps=10,Apple M4 Pro,11.2654,15
+image,384x384_steps=10,NVIDIA H100,4.191,30
+image,384x384_steps=15,Apple M4 Pro,11.1958,15
+image,384x384_steps=15,NVIDIA H100,1.6384,30
+image,384x384_steps=20,Apple M4 Pro,9.6213,15
+image,384x384_steps=20,Mac M2 Ultra,3.6423,30
+image,384x384_steps=20,NVIDIA A100,2.7236,30
+image,384x384_steps=20,NVIDIA H100,2.5437,30
+image,384x384_steps=30,Apple M4 Pro,4.006,15
+image,384x384_steps=30,Mac M2 Ultra,2.7747,30
+image,384x384_steps=30,NVIDIA A100,2.4729,30
+image,384x384_steps=30,NVIDIA H100,3.6889,30
+image,384x384_steps=5,Apple M4 Pro,11.6729,15
+image,384x384_steps=5,NVIDIA H100,2.5901,30
+image,384x384_steps=50,Apple M4 Pro,4.1351,15
+image,384x384_steps=50,NVIDIA H100,2.5971,30
+image,512x512_steps=10,Apple M4 Pro,10.9852,15
+image,512x512_steps=10,NVIDIA H100,23.3585,60
+image,512x512_steps=15,Apple M4 Pro,7.8512,15
+image,512x512_steps=15,NVIDIA H100,24.7546,60
+image,512x512_steps=20,Apple M4 Pro,40.9074,45
+image,512x512_steps=20,Mac M2 Ultra,1.2533,30
+image,512x512_steps=20,NVIDIA A100,15.0163,60
+image,512x512_steps=20,NVIDIA H100,24.8105,60
+image,512x512_steps=30,Apple M4 Pro,5.7872,15
+image,512x512_steps=30,Mac M2 Ultra,0.9491,30
+image,512x512_steps=30,NVIDIA A100,2.6517,30
+image,512x512_steps=30,NVIDIA H100,24.9453,60
+image,512x512_steps=5,Apple M4 Pro,13.0688,15
+image,512x512_steps=5,NVIDIA H100,26.2358,60
+image,512x512_steps=50,Apple M4 Pro,3.0715,15
+image,512x512_steps=50,NVIDIA H100,2.6754,30
+image,640x640_steps=10,NVIDIA H100,18.6313,60
+image,640x640_steps=15,NVIDIA H100,19.1039,60
+image,640x640_steps=20,Apple M4 Pro,1.2915,30
+image,640x640_steps=20,NVIDIA A100,5.1349,30
+image,640x640_steps=20,NVIDIA H100,20.2741,60
+image,640x640_steps=30,NVIDIA H100,19.7863,60
+image,640x640_steps=5,NVIDIA H100,16.2567,60
+image,640x640_steps=50,NVIDIA H100,1.5211,30
+image,768x768_steps=10,NVIDIA H100,3.5596,30
+image,768x768_steps=15,NVIDIA H100,2.7707,30
+image,768x768_steps=20,Apple M4 Pro,0.505,30
+image,768x768_steps=20,NVIDIA A100,2.5067,30
+image,768x768_steps=20,NVIDIA H100,2.59,30
+image,768x768_steps=30,NVIDIA H100,1.8429,30
+image,768x768_steps=5,NVIDIA H100,8.94,30
+music,tokens=128_audio=2.5s,Mac M2 Ultra,55.2447,60
+music,tokens=128_audio=2.5s,NVIDIA A100,38.4641,60
+music,tokens=256_audio=5.1s,Mac M2 Ultra,52.4558,60
+music,tokens=256_audio=5.1s,NVIDIA A100,42.9074,60
+music,tokens=512_audio=10.2s,Mac M2 Ultra,10.4474,30
+music,tokens=512_audio=10.2s,NVIDIA A100,0.4944,30
+text,max_tokens=128,Mac M2 Ultra,11.784,30
+text,max_tokens=128,NVIDIA A100,22.2456,30
+text,max_tokens=128,NVIDIA H100,1.9992,30
+text,max_tokens=256,Mac M2 Ultra,19.5274,30
+text,max_tokens=256,NVIDIA A100,17.6922,30
+text,max_tokens=256,NVIDIA H100,1.5983,30
+text,max_tokens=32,NVIDIA H100,3.7638,30
+text,max_tokens=512,Mac M2 Ultra,19.043,30
+text,max_tokens=512,NVIDIA A100,7.5958,30
+text,max_tokens=512,NVIDIA H100,0.5685,30
+text,max_tokens=64,Mac M2 Ultra,6.4508,30
+text,max_tokens=64,NVIDIA A100,15.8777,30
+text,max_tokens=64,NVIDIA H100,2.6117,30
+video,256x256_frames=12_steps=10,NVIDIA H100,4.1162,30
+video,256x256_frames=12_steps=20,Mac M2 Ultra,0.3303,30
+video,256x256_frames=12_steps=20,NVIDIA A100,2.8488,30
+video,256x256_frames=12_steps=20,NVIDIA H100,1.7696,30
+video,256x256_frames=12_steps=30,NVIDIA H100,1.9869,30
+video,256x256_frames=16_steps=10,NVIDIA H100,4.1773,30
+video,256x256_frames=16_steps=20,Apple M4 Pro,0.2809,30
+video,256x256_frames=16_steps=20,NVIDIA A100,4.3375,30
+video,256x256_frames=16_steps=20,NVIDIA H100,1.268,30
+video,256x256_frames=16_steps=30,NVIDIA H100,0.8941,30
+video,256x256_frames=4_steps=10,NVIDIA H100,4.043,30
+video,256x256_frames=4_steps=20,Mac M2 Ultra,2.0417,30
+video,256x256_frames=4_steps=20,NVIDIA A100,3.0582,30
+video,256x256_frames=4_steps=20,NVIDIA H100,1.9617,30
+video,256x256_frames=4_steps=30,Mac M2 Ultra,0.819,30
+video,256x256_frames=4_steps=30,NVIDIA A100,2.299,30
+video,256x256_frames=4_steps=30,NVIDIA H100,1.9746,30
+video,256x256_frames=6_steps=10,NVIDIA H100,2.3412,30
+video,256x256_frames=6_steps=20,Apple M4 Pro,0.8064,30
+video,256x256_frames=6_steps=20,NVIDIA A100,1.6636,30
+video,256x256_frames=6_steps=20,NVIDIA H100,2.7926,30
+video,256x256_frames=6_steps=30,NVIDIA H100,1.7381,30
+video,256x256_frames=8_steps=10,NVIDIA H100,4.967,30
+video,256x256_frames=8_steps=20,Mac M2 Ultra,0.5973,30
+video,256x256_frames=8_steps=20,NVIDIA A100,2.6758,30
+video,256x256_frames=8_steps=20,NVIDIA H100,2.2637,30
+video,256x256_frames=8_steps=30,Mac M2 Ultra,0.4117,30
+video,256x256_frames=8_steps=30,NVIDIA A100,2.4537,30
+video,256x256_frames=8_steps=30,NVIDIA H100,2.0414,30
+video,512x512_frames=4_steps=20,NVIDIA A100,2.6886,30
+video,512x512_frames=8_steps=20,NVIDIA A100,1.3094,30

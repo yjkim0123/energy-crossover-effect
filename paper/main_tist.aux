@@ -1,0 +1,138 @@
+\relax 
+\providecommand\hyper@newdestlabel[2]{}
+\providecommand\HyField@AuxAddToFields[1]{}
+\providecommand\HyField@AuxAddToCoFields[2]{}
+\citation{abdin2024phi3}
+\citation{rombach2022high}
+\citation{guo2024animatediff}
+\citation{copet2024musicgen}
+\citation{iea2024}
+\citation{devries2023growing}
+\citation{luccioni2024power}
+\citation{verdecchia2023systematic,wu2022sustainable,schwartz2020green,kaack2022aligning}
+\citation{strubell2019energy}
+\citation{vaswani2017attention}
+\citation{patterson2021carbon}
+\citation{luccioni2024power}
+\citation{samsi2023words}
+\citation{jegham2025hungry}
+\citation{you2023zeus}
+\citation{luccioni2023bloom}
+\citation{dodge2022measuring}
+\citation{mao2024green,xu2024edge}
+\citation{mao2024green}
+\@writefile{toc}{\contentsline {section}{Abstract}{1}{section*.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {1}Introduction}{1}{section.1}\protected@file@percent }
+\newlabel{sec:intro}{{1}{1}{Introduction}{section.1}{}}
+\citation{rombach2022high,ho2020denoising}
+\citation{kaplan2020scaling}
+\citation{castano2025energy}
+\citation{devries2023growing}
+\@writefile{toc}{\contentsline {section}{\numberline {2}Experimental Setup}{2}{section.2}\protected@file@percent }
+\newlabel{sec:setup}{{2}{2}{Experimental Setup}{section.2}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.1}Hardware Platforms}{2}{subsection.2.1}\protected@file@percent }
+\citation{abdin2024phi3}
+\citation{rombach2022high}
+\citation{guo2024animatediff}
+\citation{copet2024musicgen}
+\citation{you2023zeus,samsi2023words,luccioni2024power}
+\@writefile{lot}{\contentsline {table}{\numberline {1}{\ignorespaces Hardware platforms. TDP = Thermal Design Power.}}{3}{table.caption.2}\protected@file@percent }
+\providecommand*\caption@xref[2]{\@setref\relax\@undefined{#1}}
+\newlabel{tab:hardware}{{1}{3}{Hardware platforms. TDP = Thermal Design Power}{table.caption.2}{}}
+\@writefile{lot}{\contentsline {table}{\numberline {2}{\ignorespaces Models and configurations. Total: 4,500+ runs across 3 platforms.}}{3}{table.caption.3}\protected@file@percent }
+\newlabel{tab:models}{{2}{3}{Models and configurations. Total: 4,500+ runs across 3 platforms}{table.caption.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.2}Models and Configurations}{3}{subsection.2.2}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {2.3}Energy Measurement Protocol}{3}{subsection.2.3}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {1}{\ignorespaces Energy consumption across four generative AI modalities on three hardware platforms. Comparison of Apple M4 Pro (blue), NVIDIA A100 (vermillion), and NVIDIA H100 (teal). Error bars: $\pm 1$ SD over 30 runs. Dashed lines: crossover points. The H100 shifts crossovers lower and eliminates the video crossover.}}{4}{figure.caption.4}\protected@file@percent }
+\newlabel{fig:4modal}{{1}{4}{Energy consumption across four generative AI modalities on three hardware platforms. Comparison of Apple M4 Pro (blue), NVIDIA A100 (vermillion), and NVIDIA H100 (teal). Error bars: $\pm 1$ SD over 30 runs. Dashed lines: crossover points. The H100 shifts crossovers lower and eliminates the video crossover}{figure.caption.4}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {3}Results}{4}{section.3}\protected@file@percent }
+\newlabel{sec:results}{{3}{4}{Results}{section.3}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.1}Energy Varies by Orders of Magnitude Across Modalities and Hardware}{4}{subsection.3.1}\protected@file@percent }
+\citation{kaplan2020scaling}
+\@writefile{lot}{\contentsline {table}{\numberline {3}{\ignorespaces Energy scaling law parameters ($E = \alpha \cdot N^\beta $). For diffusion workloads, the Mac exhibits superlinear scaling ($\beta > 1$) while GPUs show sublinear scaling ($\beta < 1$). Text and music scale near-linearly on all platforms. $^\dagger $H100 image fit has lower $R^2$ due to GPU startup overhead at low resolutions; see text.}}{5}{table.caption.5}\protected@file@percent }
+\newlabel{tab:scaling}{{3}{5}{Energy scaling law parameters ($E = \alpha \cdot N^\beta $). For diffusion workloads, the Mac exhibits superlinear scaling ($\beta > 1$) while GPUs show sublinear scaling ($\beta < 1$). Text and music scale near-linearly on all platforms. $^\dagger $H100 image fit has lower $R^2$ due to GPU startup overhead at low resolutions; see text}{table.caption.5}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.2}Energy Scaling Laws: Strong Fits for Most Modalities, With Notable Exceptions}{5}{subsection.3.2}\protected@file@percent }
+\newlabel{sec:scaling}{{3.2}{5}{Energy Scaling Laws: Strong Fits for Most Modalities, With Notable Exceptions}{subsection.3.2}{}}
+\@writefile{lof}{\contentsline {figure}{\numberline {2}{\ignorespaces Energy efficiency ratio across all configurations. Values below 1.0 indicate the GPU is more energy-efficient. The H100 crosses below 1.0 at lower complexity than the A100 for images, and remains below 1.0 for all video configurations.}}{6}{figure.caption.6}\protected@file@percent }
+\newlabel{fig:ratio}{{2}{6}{Energy efficiency ratio across all configurations. Values below 1.0 indicate the GPU is more energy-efficient. The H100 crosses below 1.0 at lower complexity than the A100 for images, and remains below 1.0 for all video configurations}{figure.caption.6}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.3}Crossover Points Depend on Architecture and GPU Generation}{6}{subsection.3.3}\protected@file@percent }
+\citation{podell2023sdxl}
+\@writefile{lof}{\contentsline {figure}{\numberline {3}{\ignorespaces Speed--energy tradeoff. Each point is a modality--configuration pair. Points below $y=1$ and right of $x=1$ represent the best case (faster and cheaper on GPU).}}{7}{figure.caption.7}\protected@file@percent }
+\newlabel{fig:tradeoff}{{3}{7}{Speed--energy tradeoff. Each point is a modality--configuration pair. Points below $y=1$ and right of $x=1$ represent the best case (faster and cheaper on GPU)}{figure.caption.7}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.4}The Speed--Energy Tradeoff: Four Operational Regimes}{7}{subsection.3.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.5}Power Profiles Explain the Crossover Mechanism}{7}{subsection.3.5}\protected@file@percent }
+\@writefile{lof}{\contentsline {figure}{\numberline {4}{\ignorespaces Average and peak power draw across modalities. The H100 draws $2.0$--$2.8\times $ more power than the A100 for image workloads (${\sim }1.4$--$2.0\times $ for video) but achieves $1.5$--$1.7\times $ faster completion.}}{8}{figure.caption.8}\protected@file@percent }
+\newlabel{fig:power}{{4}{8}{Average and peak power draw across modalities. The H100 draws $2.0$--$2.8\times $ more power than the A100 for image workloads (${\sim }1.4$--$2.0\times $ for video) but achieves $1.5$--$1.7\times $ faster completion}{figure.caption.8}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.6}Cross-Model Validation: SDXL Confirms Patterns}{8}{subsection.3.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.7}Batched Inference: Narrows But Does Not Eliminate Edge Advantage}{8}{subsection.3.7}\protected@file@percent }
+\newlabel{sec:batched}{{3.7}{8}{Batched Inference: Narrows But Does Not Eliminate Edge Advantage}{subsection.3.7}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.8}Energy--Quality Tradeoff}{8}{subsection.3.8}\protected@file@percent }
+\@writefile{lot}{\contentsline {table}{\numberline {4}{\ignorespaces Measurement reliability (CV across 30 runs).}}{9}{table.caption.9}\protected@file@percent }
+\newlabel{tab:reliability}{{4}{9}{Measurement reliability (CV across 30 runs)}{table.caption.9}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {3.9}Measurement Reliability}{9}{subsection.3.9}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {4}Discussion: Implications for AI Systems Deployment}{9}{section.4}\protected@file@percent }
+\newlabel{sec:discussion}{{4}{9}{Discussion: Implications for AI Systems Deployment}{section.4}{}}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.1}Modality-Aware Routing as a Systems Strategy}{9}{subsection.4.1}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.2}Cost and Latency Implications}{9}{subsection.4.2}\protected@file@percent }
+\citation{luccioni2024power}
+\citation{you2023zeus}
+\citation{samsi2023words}
+\citation{castano2025energy}
+\citation{desislavov2023trends}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.3}Implications for Mixed-Fleet Operation}{10}{subsection.4.3}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.4}The Architectural Divide: Why Crossover is Modality-Specific}{10}{subsection.4.4}\protected@file@percent }
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.5}GPU Generational Trends}{10}{subsection.4.5}\protected@file@percent }
+\citation{you2023zeus,jegham2025hungry,luccioni2024power}
+\citation{wu2022sustainable}
+\citation{patterson2021carbon,wu2022sustainable}
+\@writefile{toc}{\contentsline {subsection}{\numberline {4.6}Relation to Prior Work}{11}{subsection.4.6}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{\numberline {5}Sensitivity Analysis}{11}{section.5}\protected@file@percent }
+\newlabel{sec:sensitivity}{{5}{11}{Sensitivity Analysis}{section.5}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {6}Prompt Invariance Validation}{11}{section.6}\protected@file@percent }
+\newlabel{sec:prompt}{{6}{11}{Prompt Invariance Validation}{section.6}{}}
+\@writefile{toc}{\contentsline {section}{\numberline {7}Limitations}{11}{section.7}\protected@file@percent }
+\newlabel{sec:limitations}{{7}{11}{Limitations}{section.7}{}}
+\bibcite{iea2024}{{1}{}{{}}{{}}}
+\bibcite{devries2023growing}{{2}{}{{}}{{}}}
+\bibcite{luccioni2024power}{{3}{}{{}}{{}}}
+\bibcite{strubell2019energy}{{4}{}{{}}{{}}}
+\bibcite{patterson2021carbon}{{5}{}{{}}{{}}}
+\@writefile{toc}{\contentsline {section}{\numberline {8}Conclusion}{12}{section.8}\protected@file@percent }
+\newlabel{sec:conclusion}{{8}{12}{Conclusion}{section.8}{}}
+\@writefile{toc}{\contentsline {section}{Acknowledgments}{12}{section*.13}\protected@file@percent }
+\@writefile{toc}{\contentsline {section}{References}{12}{section*.15}\protected@file@percent }
+\bibcite{luccioni2023bloom}{{6}{}{{}}{{}}}
+\bibcite{you2023zeus}{{7}{}{{}}{{}}}
+\bibcite{samsi2023words}{{8}{}{{}}{{}}}
+\bibcite{dodge2022measuring}{{9}{}{{}}{{}}}
+\bibcite{wu2022sustainable}{{10}{}{{}}{{}}}
+\bibcite{desislavov2023trends}{{11}{}{{}}{{}}}
+\bibcite{kaack2022aligning}{{12}{}{{}}{{}}}
+\bibcite{verdecchia2023systematic}{{13}{}{{}}{{}}}
+\bibcite{schwartz2020green}{{14}{}{{}}{{}}}
+\bibcite{abdin2024phi3}{{15}{}{{}}{{}}}
+\bibcite{rombach2022high}{{16}{}{{}}{{}}}
+\bibcite{guo2024animatediff}{{17}{}{{}}{{}}}
+\bibcite{copet2024musicgen}{{18}{}{{}}{{}}}
+\bibcite{kaplan2020scaling}{{19}{}{{}}{{}}}
+\bibcite{mao2024green}{{20}{}{{}}{{}}}
+\bibcite{jegham2025hungry}{{21}{}{{}}{{}}}
+\bibcite{castano2025energy}{{22}{}{{}}{{}}}
+\bibcite{xu2024edge}{{23}{}{{}}{{}}}
+\bibcite{henderson2020towards}{{24}{}{{}}{{}}}
+\bibcite{lacoste2019quantifying}{{25}{}{{}}{{}}}
+\bibcite{anthony2020carbontracker}{{26}{}{{}}{{}}}
+\bibcite{ho2020denoising}{{27}{}{{}}{{}}}
+\bibcite{vaswani2017attention}{{28}{}{{}}{{}}}
+\bibcite{podell2023sdxl}{{29}{}{{}}{{}}}
+\bibcite{garcia2019estimation}{{30}{}{{}}{{}}}
+\newlabel{tocindent-1}{0pt}
+\newlabel{tocindent0}{0pt}
+\newlabel{tocindent1}{4.185pt}
+\newlabel{tocindent2}{10.34999pt}
+\newlabel{tocindent3}{0pt}
+\newlabel{tocindent4}{0pt}
+\newlabel{tocindent5}{0pt}
+\providecommand\NAT@force@numbers{}\NAT@force@numbers
+\newlabel{TotPages}{{13}{13}{}{page.13}{}}
+\gdef \@abspage@last{13}

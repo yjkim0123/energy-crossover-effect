@@ -1,0 +1,15 @@
+{
+  "duration_sec": 24.24,
+  "samples": 40,
+  "avg_power_w": 21.27,
+  "max_power_w": 26.01,
+  "total_energy_j": 527.83,
+  "energy_kwh": 0.00014662,
+  "model": "animatediff-v1-5-2",
+  "modality": "video",
+  "generation_time_sec": 23.0,
+  "resolution": "256x256",
+  "frames": 8,
+  "steps": 20,
+  "energy_per_frame_j": 65.98
+}

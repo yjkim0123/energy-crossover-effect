@@ -1,0 +1,902 @@
+[
+  {
+    "generation_time_sec": 4.25,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 1,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.16,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 2,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.16,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 3,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.17,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 4,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.16,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 5,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.17,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 6,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.16,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 7,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.17,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 8,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.17,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 9,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.53,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 10,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.19,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 11,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.17,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 12,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.16,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 13,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.17,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 14,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.18,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 15,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.16,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 16,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.14,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 17,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.16,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 18,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.15,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 19,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.18,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 20,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.16,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 21,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.16,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 22,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.15,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 23,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.16,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 24,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.18,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 25,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.16,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 26,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.17,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 27,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.16,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 28,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.17,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 29,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 4.18,
+    "max_tokens": 64,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 30,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.46,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 1,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.41,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 2,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.39,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 3,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.39,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 4,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.39,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 5,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.42,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 6,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.39,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 7,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.41,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 8,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.4,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 9,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.59,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 10,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.41,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 11,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.39,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 12,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.44,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 13,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.4,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 14,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.4,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 15,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.44,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 16,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.41,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 17,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.41,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 18,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.4,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 19,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.5,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 20,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 8.62,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 21,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 9.18,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 22,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 24.72,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 23,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 11.97,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 24,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 14.18,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 25,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 9.65,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 26,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 17.84,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 27,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 16.21,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 28,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 11.89,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 29,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 9.09,
+    "max_tokens": 128,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 30,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 23.37,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 1,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 31.31,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 2,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 28.32,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 3,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 36.57,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 4,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 25.51,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 5,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 42.36,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 6,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 30.25,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 7,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 37.89,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 8,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 61.93,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 9,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 34.85,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 10,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 27.39,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 11,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 29.94,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 12,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 27.6,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 13,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 29.35,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 14,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 27.69,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 15,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 49.95,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 16,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 42.94,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 17,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 28.63,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 18,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 40.85,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 19,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 34.41,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 20,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 29.77,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 21,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 35.44,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 22,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 35.87,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 23,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 89.27,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 24,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 32.77,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 25,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 35.1,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 26,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 39.57,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 27,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 40.33,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 28,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 28.48,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 29,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  },
+  {
+    "generation_time_sec": 28.25,
+    "max_tokens": 256,
+    "modality": "text",
+    "model": "Mistral-7B-Instruct",
+    "params_B": 7.2,
+    "run": 30,
+    "hardware": "Apple M4 Pro",
+    "backend": "mps"
+  }
+]

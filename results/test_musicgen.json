@@ -1,0 +1,11 @@
+{
+  "duration_sec": 10.37,
+  "samples": 19,
+  "avg_power_w": 4.71,
+  "max_power_w": 7.79,
+  "total_energy_j": 51.44,
+  "energy_kwh": 1.429e-05,
+  "model": "musicgen-small",
+  "generation_time_sec": 9.44,
+  "audio_length_sec": 5.1
+}

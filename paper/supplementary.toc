@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}Supplementary Figures}{2}{section.1}%
+\contentsline {section}{\numberline {2}Supplementary Tables}{9}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Supplementary Table 1: Per-Configuration Energy Statistics}{9}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Supplementary Table 2: Detailed Crossover Analysis}{12}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}Supplementary Table 3: Sensitivity Analysis Results}{12}{subsection.2.3}%
+\contentsline {section}{\numberline {3}Sensitivity Analysis}{13}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Methodology}{13}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Results}{13}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Detailed Scaling Law Fits}{13}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Fit Parameters}{14}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Interpretation}{14}{subsection.4.2}%

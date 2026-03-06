@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2025)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main_fgcs.aux
+The style file: elsarticle-num.bst
+Database file #1: refs.bib
+Warning--empty pages in guo2024animatediff
+Warning--empty pages in copet2024musicgen
+Warning--empty pages in vaswani2017attention
+Warning--empty pages in wu2022sustainable
+Warning--empty pages in anthony2020carbontracker
+Warning--empty pages in podell2023sdxl
+You've used 31 entries,
+            2952 wiz_defined-function locations,
+            849 strings with 11016 characters,
+and the built_in function-call counts, 10142 in all, are:
+= -- 959
+> -- 298
+< -- 10
++ -- 120
+- -- 89
+* -- 663
+:= -- 1341
+add.period$ -- 42
+call.type$ -- 31
+change.case$ -- 31
+chr.to.int$ -- 0
+cite$ -- 37
+duplicate$ -- 374
+empty$ -- 1219
+format.name$ -- 118
+if$ -- 2697
+int.to.chr$ -- 0
+int.to.str$ -- 31
+missing$ -- 30
+newline$ -- 121
+num.names$ -- 31
+pop$ -- 236
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 708
+stack$ -- 0
+substring$ -- 424
+swap$ -- 119
+text.length$ -- 10
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 6
+while$ -- 68
+width$ -- 33
+write$ -- 295
+(There were 6 warnings)

@@ -1,0 +1,187 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \def\href#1#2{#2} \def\path#1{#1}\fi
+
+\bibitem{abdin2024phi3}
+M.~Abdin, et~al., \href{https://arxiv.org/abs/2404.14219}{Phi-3 technical
+  report: A highly capable language model locally on your phone}, arXiv
+  preprint arXiv:2404.14219 (2024).
+\newline\urlprefix\url{https://arxiv.org/abs/2404.14219}
+
+\bibitem{rombach2022high}
+R.~Rombach, A.~Blattmann, D.~Lorenz, P.~Esser, B.~Ommer, High-resolution image
+  synthesis with latent diffusion models, in: Proceedings of the IEEE/CVF
+  Conference on Computer Vision and Pattern Recognition (CVPR), IEEE, 2022, pp.
+  10684--10695.
+\newblock \href {https://doi.org/10.1109/CVPR52688.2022.01042}
+  {\path{doi:10.1109/CVPR52688.2022.01042}}.
+
+\bibitem{guo2024animatediff}
+Y.~Guo, et~al., {AnimateDiff}: Animate your personalized text-to-image
+  diffusion models without specific tuning, in: Proceedings of the
+  International Conference on Learning Representations (ICLR), 2024.
+
+\bibitem{copet2024musicgen}
+J.~Copet, et~al., Simple and controllable music generation, in: Advances in
+  Neural Information Processing Systems (NeurIPS), Vol.~36, 2023.
+
+\bibitem{iea2024}
+{International Energy Agency},
+  \href{https://www.iea.org/reports/energy-and-ai}{Energy and {AI}} (2025).
+\newline\urlprefix\url{https://www.iea.org/reports/energy-and-ai}
+
+\bibitem{devries2023growing}
+A.~de~Vries, The growing energy footprint of artificial intelligence, Joule 7
+  (2023) 2191--2194.
+\newblock \href {https://doi.org/10.1016/j.joule.2023.09.004}
+  {\path{doi:10.1016/j.joule.2023.09.004}}.
+
+\bibitem{luccioni2024power}
+A.~S. Luccioni, Y.~Jernite, E.~Strubell, Power hungry processing: {W}atts
+  driving the cost of {AI} deployment?, in: Proceedings of the ACM Conference
+  on Fairness, Accountability, and Transparency (FAccT), ACM, 2024, pp. 85--99.
+\newblock \href {https://doi.org/10.1145/3630106.3658542}
+  {\path{doi:10.1145/3630106.3658542}}.
+
+\bibitem{mao2024green}
+Y.~Mao, et~al., Green edge {AI}: A contemporary survey, Proceedings of the IEEE
+  112~(7) (2024) 880--911.
+\newblock \href {https://doi.org/10.1109/JPROC.2024.3437365}
+  {\path{doi:10.1109/JPROC.2024.3437365}}.
+
+\bibitem{kaplan2020scaling}
+J.~Kaplan, et~al., \href{https://arxiv.org/abs/2001.08361}{Scaling laws for
+  neural language models}, arXiv preprint arXiv:2001.08361 (2020).
+\newline\urlprefix\url{https://arxiv.org/abs/2001.08361}
+
+\bibitem{strubell2019energy}
+E.~Strubell, A.~Ganesh, A.~McCallum, Energy and policy considerations for deep
+  learning in {NLP}, in: Proceedings of the 57th Annual Meeting of the
+  Association for Computational Linguistics (ACL), 2019, pp. 3645--3650.
+\newblock \href {https://doi.org/10.18653/v1/P19-1355}
+  {\path{doi:10.18653/v1/P19-1355}}.
+
+\bibitem{vaswani2017attention}
+A.~Vaswani, et~al., Attention is all you need, in: Advances in Neural
+  Information Processing Systems (NeurIPS), Vol.~30, 2017.
+
+\bibitem{patterson2021carbon}
+D.~Patterson, J.~Gonzalez, Q.~Le, C.~Liang, L.-M. Munguia, D.~Rothchild, D.~So,
+  M.~Texier, J.~Dean, \href{https://arxiv.org/abs/2104.10350}{Carbon emissions
+  and large neural network training}, arXiv preprint arXiv:2104.10350 (2021).
+\newline\urlprefix\url{https://arxiv.org/abs/2104.10350}
+
+\bibitem{samsi2023words}
+S.~Samsi, et~al., From words to watts: Benchmarking the energy costs of large
+  language model inference, in: Proceedings of the IEEE High Performance
+  Extreme Computing Conference (HPEC), IEEE, 2023, pp. 1--9.
+
+\bibitem{jegham2025hungry}
+N.~Jegham, M.~Abdelatti, L.~Elmoubarki, A.~Hendawi,
+  \href{https://arxiv.org/abs/2505.09598}{How hungry is {AI}? {B}enchmarking
+  energy, water, and carbon footprint of {LLM} inference}, arXiv preprint
+  arXiv:2505.09598 (2025).
+\newline\urlprefix\url{https://arxiv.org/abs/2505.09598}
+
+\bibitem{you2023zeus}
+J.~You, et~al., Zeus: Understanding and optimizing {GPU} energy consumption of
+  {DNN} training, in: Proceedings of the 20th USENIX Symposium on Networked
+  Systems Design and Implementation (NSDI), USENIX, 2023, pp. 119--139.
+
+\bibitem{luccioni2023bloom}
+A.~S. Luccioni, S.~Viguier, A.-L. Ligozat, Estimating the carbon footprint of
+  {BLOOM}, a 176{B} parameter language model, Journal of Machine Learning
+  Research 24~(253) (2023) 1--15.
+
+\bibitem{dodge2022measuring}
+J.~Dodge, et~al., Measuring the carbon intensity of {AI} in cloud instances,
+  in: Proceedings of the ACM Conference on Fairness, Accountability, and
+  Transparency (FAccT), ACM, 2022, pp. 1877--1894.
+\newblock \href {https://doi.org/10.1145/3531146.3533234}
+  {\path{doi:10.1145/3531146.3533234}}.
+
+\bibitem{xu2024edge}
+X.~Wang, W.~Jia, \href{https://arxiv.org/abs/2501.03265}{Optimizing edge {AI}:
+  A comprehensive survey on data, model, and system strategies}, arXiv preprint
+  arXiv:2501.03265 (2025).
+\newline\urlprefix\url{https://arxiv.org/abs/2501.03265}
+
+\bibitem{castano2025energy}
+A.~Iyengar, J.~Han, B.~Ruf, V.~Grari, M.~Detyniecki, S.~Ermon,
+  \href{https://arxiv.org/abs/2511.17031}{Energy scaling laws for diffusion
+  models: Quantifying compute and carbon emissions in image generation}, arXiv
+  preprint arXiv:2511.17031 (2025).
+\newline\urlprefix\url{https://arxiv.org/abs/2511.17031}
+
+\bibitem{wu2022sustainable}
+C.-J. Wu, et~al., Sustainable {AI}: Environmental implications, challenges and
+  opportunities, in: Proceedings of Machine Learning and Systems (MLSys), 2022.
+
+\bibitem{kaack2022aligning}
+L.~H. Kaack, et~al., Aligning artificial intelligence with climate change
+  mitigation, Nature Climate Change 12 (2022) 518--527.
+\newblock \href {https://doi.org/10.1038/s41558-022-01377-7}
+  {\path{doi:10.1038/s41558-022-01377-7}}.
+
+\bibitem{verdecchia2023systematic}
+R.~Verdecchia, J.~Sallou, L.~Cruz, A systematic review of {Green AI}, WIREs
+  Data Mining and Knowledge Discovery 13 (2023) e1507.
+\newblock \href {https://doi.org/10.1002/widm.1507}
+  {\path{doi:10.1002/widm.1507}}.
+
+\bibitem{schwartz2020green}
+R.~Schwartz, J.~Dodge, N.~A. Smith, O.~Etzioni, Green {AI}, Communications of
+  the ACM 63~(12) (2020) 54--63.
+\newblock \href {https://doi.org/10.1145/3381831} {\path{doi:10.1145/3381831}}.
+
+\bibitem{henderson2020towards}
+P.~Henderson, et~al., Towards the systematic reporting of the energy and carbon
+  footprints of machine learning, Journal of Machine Learning Research 21~(248)
+  (2020) 1--43.
+
+\bibitem{lacoste2019quantifying}
+A.~Lacoste, A.~Luccioni, V.~Schmidt, T.~Dandres,
+  \href{https://arxiv.org/abs/1910.09700}{Quantifying the carbon emissions of
+  machine learning}, arXiv preprint arXiv:1910.09700 (2019).
+\newline\urlprefix\url{https://arxiv.org/abs/1910.09700}
+
+\bibitem{anthony2020carbontracker}
+L.~F.~W. Anthony, B.~Kanding, R.~Selvan, {Carbontracker}: Tracking and
+  predicting the carbon footprint of training deep learning models, in: ICML
+  Workshop on Challenges in Deploying and Monitoring ML Systems, 2020.
+
+\bibitem{garcia2019estimation}
+E.~Garc{\'\i}a-Mart{\'\i}n, C.~F. Rodrigues, G.~Riley, H.~Grahn, Estimation of
+  energy consumption in machine learning, Journal of Parallel and Distributed
+  Computing 134 (2019) 75--88.
+\newblock \href {https://doi.org/10.1016/j.jpdc.2019.07.007}
+  {\path{doi:10.1016/j.jpdc.2019.07.007}}.
+
+\bibitem{desislavov2023trends}
+R.~Desislavov, F.~Mart{\'\i}nez-Plumed, J.~Hern{\'a}ndez-Orallo, Trends in {AI}
+  inference energy consumption: Beyond the performance-vs-parameter laws of
+  deep learning, Sustainable Computing: Informatics and Systems 38 (2023)
+  100857.
+\newblock \href {https://doi.org/10.1016/j.suscom.2023.100857}
+  {\path{doi:10.1016/j.suscom.2023.100857}}.
+
+\bibitem{podell2023sdxl}
+D.~Podell, et~al., {SDXL}: Improving latent diffusion models for
+  high-resolution image synthesis, in: Proceedings of the International
+  Conference on Learning Representations (ICLR), 2024.
+
+\bibitem{ho2020denoising}
+J.~Ho, A.~Jain, P.~Abbeel, Denoising diffusion probabilistic models, in:
+  Advances in Neural Information Processing Systems (NeurIPS), Vol.~33, 2020,
+  pp. 6840--6851.
+
+\bibitem{touvron2023llama}
+H.~Touvron, et~al., \href{https://arxiv.org/abs/2302.13971}{{LLaMA}: Open and
+  efficient foundation language models}, arXiv preprint arXiv:2302.13971
+  (2023).
+\newline\urlprefix\url{https://arxiv.org/abs/2302.13971}
+
+\end{thebibliography}

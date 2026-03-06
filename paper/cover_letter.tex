@@ -1,0 +1,33 @@
+\documentclass[11pt]{letter}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{hyperref}
+
+\signature{Seoksoo Kim, Ph.D.\\
+Department of Media and Visual Communications\\
+Hannam University, Daejeon, South Korea\\
+sskim@hnu.kr}
+
+\address{Department of Media and Visual Communications\\Hannam University\\Daejeon 34430, South Korea}
+
+\begin{document}
+
+\begin{letter}{Editorial Board\\Nature Communications}
+
+\opening{Dear Editors,}
+
+We are pleased to submit our manuscript entitled \textbf{``The Energy Crossover Effect: How Model Architecture Shapes Hardware Efficiency Across Generative AI Modalities''} for consideration as an Article in \textit{Nature Communications}.
+
+\textbf{Summary.} As generative AI scales to billions of daily inferences across text, image, video, and music, understanding its energy footprint has become critical. We present the first systematic energy benchmark spanning all four generative modalities on three hardware tiers---an edge system-on-chip (Apple M4 Pro, 22W TDP), a mainstream data center GPU (NVIDIA A100, 400W TDP), and a high-end data center GPU (NVIDIA H100, 700W TDP)---comprising 4,500 experimental runs across 6 models and 76 configurations with 30 repeats each.
+
+\textbf{Key finding.} We discover the \textit{Energy Crossover Effect}: for parallelizable diffusion workloads (image, video generation), energy efficiency leadership transitions from edge to GPU hardware as task complexity increases, with crossover thresholds that depend on GPU generation. The H100 achieves energy parity between 256$^2$ and 384$^2$ pixels (vs.\ $\sim$466$^2$ for the A100) and dominates video generation at \textit{all} tested configurations---eliminating the crossover entirely. For sequential autoregressive workloads (text, music generation), edge hardware is consistently 6--10$\times$ more energy-efficient on both GPUs. We formalize these patterns through modality-specific empirical scaling laws ($E = \alpha \cdot N^\beta$), revealing superlinear edge scaling versus sublinear GPU scaling for diffusion workloads.
+
+\textbf{Significance.} This work challenges the widespread assumption that more powerful hardware is universally more energy-efficient for AI inference. Our three-platform comparison demonstrates that the interaction between model architecture (autoregressive vs.\ diffusion) and hardware design creates qualitatively different energy scaling regimes, and that advancing GPU generations shift crossover thresholds in predictable ways. Modality-aware workload routing could yield substantial energy savings (estimated 200--400~GWh annually under optimistic assumptions). Given the urgency of sustainable AI deployment and the broad interest across computer science, sustainability science, and policy, we believe this work is well suited for the interdisciplinary readership of \textit{Nature Communications}.
+
+\textbf{Novelty.} To our knowledge, no prior study has: (1) benchmarked energy across all four generative modalities on three hardware tiers spanning the full edge-to-cloud spectrum, (2) identified the architecture-dependent crossover phenomenon and shown how it evolves across GPU generations, or (3) derived cross-hardware empirical scaling relationships for generative AI energy consumption.
+
+This manuscript has not been published or submitted elsewhere. All authors have approved the manuscript.
+
+\closing{Sincerely,}
+
+\end{letter}
+\end{document}
