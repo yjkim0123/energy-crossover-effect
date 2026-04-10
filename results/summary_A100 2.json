@@ -1,0 +1,40 @@
+{
+  "hardware": "NVIDIA A100-SXM4-40GB",
+  "backend": "cuda",
+  "repeats": 30,
+  "timestamp": "2026-02-20 02:50:23",
+  "pytorch": "2.10.0+cu128",
+  "cuda": "12.8",
+  "text": {
+    "n_records": 120,
+    "energy_range_j": [
+      55.4,
+      1779.4
+    ],
+    "energy_mean_j": 821.8
+  },
+  "image": {
+    "n_records": 180,
+    "energy_range_j": [
+      136.5,
+      356.3
+    ],
+    "energy_mean_j": 226.3
+  },
+  "video": {
+    "n_records": 210,
+    "energy_range_j": [
+      330.7,
+      1773.5
+    ],
+    "energy_mean_j": 771.8
+  },
+  "music": {
+    "n_records": 150,
+    "energy_range_j": [
+      270.6,
+      1231.8
+    ],
+    "energy_mean_j": 704.5
+  }
+}

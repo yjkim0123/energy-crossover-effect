@@ -1,0 +1,14 @@
+{
+  "duration_sec": 15.54,
+  "samples": 27,
+  "avg_power_w": 8.71,
+  "max_power_w": 14.65,
+  "total_energy_j": 139.02,
+  "energy_kwh": 3.862e-05,
+  "model": "Phi-3-mini-4k-instruct",
+  "modality": "text",
+  "generation_time_sec": 14.59,
+  "tokens_generated": 256,
+  "tokens_per_sec": 17.5,
+  "energy_per_token_j": 0.543
+}

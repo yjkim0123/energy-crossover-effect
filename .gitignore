@@ -1,1 +1,22 @@
 github_repo
+# LaTeX build artifacts
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+*.xdv
+*.toc
+*.spl
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*_backup.tex
+# macOS
+.DS_Store
+._*
